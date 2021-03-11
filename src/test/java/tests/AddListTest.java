@@ -9,14 +9,14 @@ public class AddListTest extends BaseTest{
 	@Test(description = "Choose one of the lits")
 	public void tc00_chooseListFromKabab() {
 		TasksPage tsp = new TasksPage(driver);
-		tsp.chooseListFromMenu("Gal666");
+		tsp.chooseListFromMenu("Gal888");
 	}
 	
 	@Test
 	public void tc01_addList() {
 		TasksPage tsp = new TasksPage(driver);
-		tsp.addNewList("Gal666");
-		tsp.chooseList1("Gal666");
+		tsp.addNewList("Gal888");
+		tsp.chooseList1("Gal888");
 	}
 	
 	@Test
