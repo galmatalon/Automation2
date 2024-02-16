@@ -19,9 +19,9 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 - **Logging:** The project includes logging capabilities to capture and document important events during test execution.
 
 ## 📊 Reports
-```bash
-mvn allure:serve
-```
+  ```bash
+  mvn allure:serve
+  ```
 ## 📊 Reports Examples
 <p>
   <img src="ScreenShots/tc02_addTask1615288676297.jpg" width="40%" title="Example for screenshot on failure">
@@ -37,7 +37,7 @@ mvn allure:serve
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/your-repo.git
-  ```
+    ```
 
 ## 📁 Project Structure
 git config --global alias.tree '! git ls-tree --full-name --name-only -t -r HEAD | sed -e "s/[^-][^\/]*\//   |/g" -e "s/|\([^ ]\)/|-- \1/"'
