@@ -1,6 +1,6 @@
 # 💻 My Automation Project 
 This is a testing automation demo project that tests a real site called: www.automation.co.il
-- [x] This example is for the automation college only (המכללה לאוטומציה)
+- [x] This example is for the `automation college students` only (המכללה לאוטומציה)
 
 ![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
 
