@@ -8,9 +8,9 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📑 Features
 
-- **Java:** The project is developed using Java, providing a robust and widely used programming language for automation.
+- **Java:** The project is developed using ==Java==, providing a robust and widely used programming language for automation.
   
-- **TestNG:** TestNG is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.
+- **TestNG:** ==TestNG== is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.
 
 - **Page Object Model (POM):** The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.
 
