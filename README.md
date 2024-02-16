@@ -1,7 +1,7 @@
-# 🤩 My Automation Project 
+# 💻 My Automation Project 
 This is a testing automation project that tests a real site called: www.automation.co.il
 
-## Overview
+## 📖 Overview
 
 This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
@@ -24,14 +24,25 @@ The project follows the Page Object Model (POM) design pattern for a modular and
   <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure">
 </p>
 
-
-## Prerequisites
+## 📖 Prerequisites
 
 - Write here your Prerequisites if exists.
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/your-repo.git
+
+## 📁 Project Structure
+#!/bin/bash
+
+#File: tree-md
+
+tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
+       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
+
+printf "# Project tree\n\n${tree}"
+
+
 
