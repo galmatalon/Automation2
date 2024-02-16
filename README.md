@@ -1,8 +1,9 @@
 # 💻 My Automation Project 
-I need to highlight these ==very important words==.
-This is a testing automation project that tests a real site called: www.automation.co.il
+This is a testing automation demo project that tests a real site called: www.automation.co.il
 - [x] This example is for the automation college only (המכללה לאוטומציה)
-      
+
+![GitHub forks](https://img.shields.io/github/forks/lifeparticle/Markdown-Cheatsheet?style=for-the-badge)
+
 ## 📖 Overview
 
 This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
