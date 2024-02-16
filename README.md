@@ -6,7 +6,7 @@ This is a testing automation project that tests a real site called: www.automati
 This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
-## Features
+## 📑 Features
 
 - **Java:** The project is developed using Java, providing a robust and widely used programming language for automation.
   
@@ -18,7 +18,9 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 - **Logging:** The project includes logging capabilities to capture and document important events during test execution.
 
-## Reports
+## 📊 Reports
+```bash
+mvn allure:serve
 <p>
   <img src="ScreenShots/tc02_addTask1615288676297.jpg" width="40%" title="Example for screenshot on failure">
   <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure">
