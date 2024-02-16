@@ -40,8 +40,18 @@ The project follows the Page Object Model (POM) design pattern for a modular and
     ```
 
 ## 📁 Project Structure
-git config --global alias.tree '! git ls-tree --full-name --name-only -t -r HEAD | sed -e "s/[^-][^\/]*\//   |/g" -e "s/|\([^ ]\)/|-- \1/"'
-
+├───.settings
+├───bin
+│   ├───pages
+│   └───tests
+├───src
+│   ├───pages
+│   └───tests
+└───test-output
+    ├───Default suite
+    ├───junitreports
+    └───old
+        └───Default suite
 
 
 Thanks for visiting my GitHub profile! 😊
