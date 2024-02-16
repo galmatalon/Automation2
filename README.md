@@ -1,4 +1,4 @@
-# My Automation Project 🤩 
+# 🤩 My Automation Project 
 This is a testing automation project that tests a real site called: www.automation.co.il
 
 ## Overview
