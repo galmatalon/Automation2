@@ -1,6 +1,10 @@
 # 💻 My Automation Project 
 This is a testing automation project that tests a real site called: www.automation.co.il
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+      
 ## 📖 Overview
 
 This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
