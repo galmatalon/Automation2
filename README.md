@@ -19,7 +19,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 - **Logging:** The project includes logging capabilities to capture and document important events during test execution.
 
 ## 📊 Reports
-  ```bash
+  ```cmd
   mvn allure:serve
   ```
 ## 📊 Reports Examples
