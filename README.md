@@ -1,9 +1,6 @@
 # 💻 My Automation Project 
 This is a testing automation project that tests a real site called: www.automation.co.il
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] This example is for the automation college only (המכללה לאוטומציה)
       
 ## 📖 Overview
 
@@ -11,6 +8,10 @@ This repository contains a comprehensive automated testing project built with Ja
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
 ## 📑 Features
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 - **Java:** The project is developed using ==Java==, providing a robust and widely used programming language for automation.
   
