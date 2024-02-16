@@ -35,14 +35,12 @@ The project follows the Page Object Model (POM) design pattern for a modular and
    git clone https://github.com/your-username/your-repo.git
 
 ## 📁 Project Structure
-#!/bin/bash
+git config --global alias.tree '! git ls-tree --full-name --name-only -t -r HEAD | sed -e "s/[^-][^\/]*\//   |/g" -e "s/|\([^ ]\)/|-- \1/"'
 
-#File: tree-md
 
-tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
-       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
 
-printf "# Project tree\n\n${tree}"
+Thanks for visiting my GitHub profile! 😊
+
 
 
 
