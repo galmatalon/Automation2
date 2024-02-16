@@ -41,10 +41,15 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📁 Project Structure
 ├───.settings
+
 ├───bin
+
 │   ├───pages
+
 │   └───tests
+
 ├───src
+
 │   ├───pages
 │   └───tests
 └───test-output
