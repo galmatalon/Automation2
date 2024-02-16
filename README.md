@@ -1,4 +1,5 @@
 # 💻 My Automation Project 
+I need to highlight these ==very important words==.
 This is a testing automation project that tests a real site called: www.automation.co.il
 - [x] This example is for the automation college only (המכללה לאוטומציה)
       
