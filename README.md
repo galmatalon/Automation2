@@ -12,19 +12,11 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 | ----------- | ----------- |
 | **Java:**      | The project is developed using ==Java==, providing a robust and widely used programming language for automation.       |
 | **TestNG:**   | ==TestNG== is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.        |
-| **Page Object Model (POM):**   | ==TestNG== is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.        |
-| **TestNG:**   | ==TestNG== is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.        |
-| **TestNG:**   | ==TestNG== is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.        |
+| **Selenium WebDriver:**   | The project includes Selenium WebDriver for automating browser interactions        |
+| **Page Object Model (POM):**   | The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.        |
+| **Allure Reports:**   | Test results are documented using Allure Reports, providing a clear and interactive visualization of test execution.        |
+| **Jenkins:**   | Continuous integration and continuous delivery (CI/CD) platform for automated builds and deployments.        |
 
-- **Java:** The project is developed using ==Java==, providing a robust and widely used programming language for automation.
-  
-- **TestNG:** ==TestNG== is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.
-
-- **Page Object Model (POM):** The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.
-
-- **Allure Reports:** Test results are documented using Allure Reports, providing a clear and interactive visualization of test execution.
-
-- **Logging:** The project includes logging capabilities to capture and document important events during test execution.
 
 ## 📊 Reports
   ```cmd
