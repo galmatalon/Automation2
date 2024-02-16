@@ -40,19 +40,18 @@ The project follows the Page Object Model (POM) design pattern for a modular and
     ```
 
 ## 📁 Project Structure
-├───.settings
-├───bin
-│    ├───pages
-│    └───tests
-├───src
-
-│   ├───pages
-│   └───tests
-└───test-output
-    ├───Default suite
-    ├───junitreports
-    └───old
-        └───Default suite
+├───.settings <br>
+├───bin <br>
+│    ├───pages <br>
+│    └───tests <br>
+├───src <br>
+│   ├───pages <br>
+│   └───tests <br>
+└───test-output <br>
+    ├───Default suite <br>
+    ├───junitreports <br>
+    └───old <br>
+        └───Default suite <br>
 
 
 Thanks for visiting my GitHub profile! 😊
