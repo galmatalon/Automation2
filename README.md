@@ -2,7 +2,7 @@
 This is a testing automation demo project that tests a real site called: www.automation.co.il
 - [x] This example is for the automation college students only (`המכללה לאוטומציה`)
 
-![GitHub forks](https://img.shields.io/badge/number%20of%20students-1000+-blue)
+![GitHub forks](https://img.shields.io/badge/Number%20Ff%20Students-1000+-blue)
 
 ## 📖 Overview
 
