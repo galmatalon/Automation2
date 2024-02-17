@@ -1,3 +1,7 @@
+<a href="https://aimeos.org/">
+    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+</a>
+
 # 💻 My Automation Project 
 This is a testing automation demo project that tests a real site called: www.automation.co.il
 - [x] This example is for the automation college students only (`המכללה לאוטומציה`)
