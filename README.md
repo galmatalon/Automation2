@@ -2,6 +2,7 @@
 This is a testing automation demo project that tests a real site called: www.automation.co.il
 - [x] This example is for the automation college students only (`המכללה לאוטומציה`)
 
+![GitHub forks](https://img.shields.io/badge/Number%20Of%20Happy%20Students-1000+-blue)
 
 ## 📖 Overview
 
@@ -20,13 +21,13 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 
 ## 📊 Reports
-  ```cmd
+  ```bash
   mvn allure:serve
   ```
 ## 📊 Reports Examples
 <p>
-  <img src="ScreenShots/tc02_addTask1615288676297.jpg" title="Example for screenshot on failure" style="width:40%; border-radius: 25px; padding:10px;border: 2px blue solid;" />
-  <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure" style="border-radius: 25px; padding:10px;border: 2px blue solid;"/>
+  <img src="ScreenShots/tc02_addTask1615288676297.jpg" title="Example for screenshot on failure"  />
+  <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure" />
 </p>
 
 
