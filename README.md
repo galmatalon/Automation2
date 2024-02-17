@@ -13,8 +13,10 @@ This is a testing automation demo project that tests a real site called: www.aut
 This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
+<p>
  <img src="readme/automation.jpg" alt="המכללה לאוטומציה" title="המכללה לאוטומציה" align="right" width="80%" />
  <br> <br>
+</p>
 
 ## 📑 Technologies & Skill & Features
 | Technologies      | Description |
