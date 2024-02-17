@@ -26,23 +26,8 @@ The project follows the Page Object Model (POM) design pattern for a modular and
   ```
 ## 📊 Reports Examples
 <p>
-  <img src="ScreenShots/tc02_addTask1615288676297.jpg" width="40%" title="Example for screenshot on failure" style="--s: 15px;
-  --b: 2px;   --w: 200px;
-  --c: #7B3B3B;
-  
-  width: var(--w);
-  aspect-ratio: 1;
-  object-fit: cover;
-  padding: calc(2*var(--s));
-  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
-  background:
-    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
-    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
-  outline: calc(var(--w)/2) solid #0009;
-  outline-offset: calc(var(--w)/-2 - 2*var(--s));
-  transition: .4s;
-  cursor: pointer;" />
-  <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure">
+  <img src="ScreenShots/tc02_addTask1615288676297.jpg" width="40%" title="Example for screenshot on failure" style="border-radius: 25px; padding:10px;border: 2px blue solid;" />
+  <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure" style="border-radius: 25px; padding:10px;border: 2px blue solid;"/>
 </p>
 
 
