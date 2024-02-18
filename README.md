@@ -69,6 +69,27 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ```
 
 Thanks for visiting my GitHub profile! 😊
+'''
+├───.settings
+├───bin
+│   ├───data
+│   ├───pages
+│   ├───tests
+│   └───utils
+├───ScreenShots
+├───src
+│   ├───data
+│   ├───pages
+│   ├───tests
+│   └───utils
+└───test-output
+    ├───Default suite
+    ├───junitreports
+    ├───old
+    │   ├───Default suite
+    │   └───Suite
+    └───Suite
+'''
 
 
 
