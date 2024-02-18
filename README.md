@@ -69,7 +69,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ```
 
 Thanks for visiting my GitHub profile! 😊
-'''
+```
 ├───.settings
 ├───bin
 │   ├───data
@@ -89,7 +89,7 @@ Thanks for visiting my GitHub profile! 😊
     │   ├───Default suite
     │   └───Suite
     └───Suite
-'''
+```
 
 
 
