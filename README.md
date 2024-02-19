@@ -15,7 +15,6 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 <p>
   <img src="readme/automation.jpg" width="70%" title="Example for screenshot on failure"  />
-
 </p>
 
 ## 📑 Technologies & Skill & Features
@@ -69,27 +68,11 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ```
 
 Thanks for visiting my GitHub profile! 😊
-```
-├───.settings
-├───bin
-│   ├───data
-│   ├───pages
-│   ├───tests
-│   └───utils
-├───ScreenShots
-├───src
-│   ├───data
-│   ├───pages
-│   ├───tests
-│   └───utils
-└───test-output
-    ├───Default suite
-    ├───junitreports
-    ├───old
-    │   ├───Default suite
-    │   └───Suite
-    └───Suite
-```
+Gal Matalon 
+<p>
+  <img src="readme/gal-matalon.jpg" width="70%" title="גל מטלון - המכללה לאוטומציה"  />
+</p>
+https://www.automation.co.il
 
 
 
