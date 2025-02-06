@@ -1,3 +1,79 @@
+# Tutorials Ninja Automation
+
+## 📌 Project Overview
+This project is an automation framework for testing the **Tutorials Ninja** website. It is built using **Java, Selenium WebDriver, TestNG**, and **Maven**, following best practices in test automation.
+
+## 🛠️ Technologies Used
+- **Java** - Programming language for automation scripts
+- **Selenium WebDriver** - Browser automation
+- **TestNG** - Test framework for structuring and running test cases
+- **Maven** - Dependency management and build tool
+- **ExtentReports** - Test reporting framework
+- **Page Object Model (POM)** - Design pattern for maintainable test scripts
+
+## 📂 Project Structure
+```
+TutorialsNinjaAutomation/
+│── src/
+│   ├── main/java/
+│   │   ├── pages/          # Page Object Model classes
+│   │   ├── utils/          # Utility classes
+│   │   ├── config/         # Configuration files
+│   ├── test/java/
+│   │   ├── tests/          # Test cases
+│── pom.xml                 # Maven dependencies
+│── testng.xml              # TestNG configuration file
+│── README.md               # Project documentation
+```
+
+## 🚀 Installation & Setup
+### Prerequisites
+Make sure you have the following installed:
+- Java (JDK 8 or higher)
+- Maven
+- ChromeDriver (compatible with your Chrome version)
+
+### Clone the Repository
+```sh
+git clone https://github.com/artyomchernenko/TutorialsNinjaAutomation.git
+cd TutorialsNinjaAutomation
+```
+
+### Install Dependencies
+```sh
+mvn clean install
+```
+
+### Run Tests
+```sh
+mvn test
+```
+
+Or, using TestNG:
+```sh
+mvn test -DsuiteXmlFile=testng.xml
+```
+
+## 📊 Test Reports
+After test execution, reports will be generated in the `target/surefire-reports` directory. If using **ExtentReports**, find the HTML report in:
+```
+target/extent-reports/ExtentReport.html
+```
+Open it in a browser to view test results.
+
+## 📌 Future Enhancements
+- Add support for running tests in parallel
+- Implement CI/CD pipeline with GitHub Actions or Jenkins
+- Integrate with an external test management tool
+
+## 📞 Contact
+If you have any questions or suggestions, feel free to reach out via GitHub issues.
+
+---
+**Happy Testing! 🚀**
+
+
+
 <a href="https://www.automation.co.il">
     <img src="https://automation.co.il/wp-content/uploads/2020/06/cropped-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%9C%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94.png" alt="המכללה לאוטומציה" title="המכללה לאוטומציה" align="right" height="60" />
 </a>
